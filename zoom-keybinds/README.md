@@ -1,6 +1,6 @@
-# A collection of Plex Scripts for the Desktop Application
+# Zoom Keybinds
 
-The keybinds are Shift++, Shift+- and Shift+0 to add, subtract and reset the zoom level
+## The keybinds are Shift++, Shift+- and Shift+0 to add, subtract and reset the zoom level
 
 Place the .lua file in the following locations
 
